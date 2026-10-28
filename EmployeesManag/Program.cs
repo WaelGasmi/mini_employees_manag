@@ -1,5 +1,5 @@
-using tp1.Models;
-using tp1.Models.Repositories;
+using EmployeesManag.Models;
+using EmployeesManag.Models.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using tp1.Models;
-using tp1.Models.Repositories;
+using EmployeesManag.Models;
+using EmployeesManag.Models.Repositories;
 
-namespace tp1.Controllers
+namespace EmployeesManag.Controllers
 {
     public class EmployeeController : Controller
     {

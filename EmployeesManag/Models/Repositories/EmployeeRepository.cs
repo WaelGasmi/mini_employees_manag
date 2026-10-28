@@ -1,4 +1,4 @@
-﻿namespace tp1.Models.Repositories
+﻿namespace EmployeesManag.Models.Repositories
 {
     public class EmployeeRepository : IRepository<Employee>
     {

@@ -1,4 +1,4 @@
-namespace tp1.Models
+namespace EmployeesManag.Models
 {
     public class ErrorViewModel
     {

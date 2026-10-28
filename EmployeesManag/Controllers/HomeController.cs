@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using tp1.Models;
+using EmployeesManag.Models;
 
-namespace tp1.Controllers
+namespace EmployeesManag.Controllers
 {
     public class HomeController : Controller
     {
